@@ -1,0 +1,34 @@
+Timestamp
+Em qual Estado você mora?
+Em qual cidade você mora?
+Qual o seu sexo?
+Qual a sua faixa etária?
+Qual o seu nível de formação?
+Se você fez pelo menos graduação, qual a sua área de formação?
+Em que tipo de organização você trabalha?
+A organização na qual você trabalha atua em que área?
+Qual a sua principal ocupação/cargo?
+Quantos anos de experiência você possui em Visualização de dados?
+Em que proporção você trabalha com Visualização de Dados?
+Você foi contratado para trabalhar somente com Visualização de Dados?
+Das funções abaixo, qual a melhor descreve você no seu trabalho?
+Qual a sua faixa salarial mensal?
+Como a sua organização usa Visualização de Dados? Escolha todas as opções que se aplicam
+Que tipo de métodos/ferramentas você usa na sua organização para criar visualizações? Marque todas as que você utiliza.
+Você tem poder de decisão para escolher as ferramentas de trabalho?
+Que tecnologias você usa para visualizar dados?
+Você é obrigado(a) a trabalhar com ferramentas ou tecnologias de que não gosta?
+Que outras tecnologias você gostaria de usar para criar visualizações?
+Como você apresenta suas visualizações? Selecione todas as opções que se aplicam.
+Que tipos de gráficos você produziu nos últimos 6 meses?
+Quem é o público que vê as suas visualizações?
+Que nível de conhecimento em visualização o seu público possui?
+Qual o objetivo do seu público com relação a suas visualizações?
+Você aprendeu Visualização de Dados de modo formal na escola/universidade ou sozinho(a)?
+Quais são as melhores formas para aprender visualização de dados?
+Você participou de algum curso/workshop em visualização de dados nos últimos 12 meses?
+Que outras habilidades/competências você considera importantes para atuar em Visualização de dados?
+Você compartilha os seus conhecimentos de Visualização de Dados?
+Se você respondeu sim à pergunta acima, de que forma você compartilha seus conhecimentos?
+Você participa de alguma sociedade ou grupo de estudos voltado para Visualização de dados?
+Se você respondeu sim à pergunta acima, qual(is)?
