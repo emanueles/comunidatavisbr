@@ -4,7 +4,7 @@ Neste repositório estão os dados das respostas da pesquisa com a comunidade de
 
 A pesquisa foi conduzida pela organização do WVIS - Workshop de Visualização, parte do SIBGRAPI 2019 - 32nd Conference on Graphics, Patterns and Images.
 
-99 pessoas responderam à pesquisa. O formulário original está nesse [link](https://forms.gle/JH35YK66nMTLz1QB7). Também está disponível uma versão em [PDF](form/form2019.pdf). 
+99 pessoas responderam à pesquisa. Uma cópia do formulário original está nesse [link](https://forms.gle/VjqPAF3wrsX62gZq6). Também está disponível uma versão em [PDF](form/form2019.pdf). 
 
 Os dados nesse repositório foram anonimizados e limpos. Na pasta raw estão as repostas originais no formato csv e na pasta clean estão os dados limpos.
 
