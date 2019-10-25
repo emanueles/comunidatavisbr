@@ -12,7 +12,8 @@ Os dados nesse repositório foram anonimizados e limpos. Na pasta raw estão as 
 
 Foram realizados os seguintes tipos de operações:
 * Correção de erros de digitação e capitalização
-* Remoção de abreviações, uniformização nos nomes de curso e áreas de formação
+* Simplificação no nome dos campos (para ver a pergunta completa, consulte o form acima ou o [arquivo de perguntas](data/2019_questions.txt)
+* Remoção de abreviações, uniformização nos nomes de curso, áreas de formação e ocupação
 * Remoção de respostas duplicadas (um respondente provavelmente clicou no botão submeter três vezes) 
 * As respostas da pergunta **Quantos anos de experiência você possui em Visualização de dados?** foram transformadas em valores numéricos.
 
