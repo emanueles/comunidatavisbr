@@ -8,6 +8,8 @@ A pesquisa foi conduzida pela organização do WVIS - Workshop de Visualização
 
 Os dados nesse repositório foram anonimizados e limpos. Na pasta raw estão as repostas originais no formato csv e na pasta clean estão os dados limpos.
 
+Na pasta results está a [apresentação PDF](results/apresentacao_resultados_wvis.pdf) dos resultados cujos gráficos foram produzidos no Tableau.
+
 ## Observações sobre o processo de limpeza dos dados
 
 Foram realizados os seguintes tipos de operações:
